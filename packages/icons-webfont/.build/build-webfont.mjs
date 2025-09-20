@@ -10,8 +10,8 @@ const p = getPackageJson()
 const DIR = getPackageDir('icons-webfont')
 
 const strokes = {
-  200: 1,
-  300: 1.5,
+  // 200: 1,
+  // 300: 1.5,
   400: 2,
 }
 

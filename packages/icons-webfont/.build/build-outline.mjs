@@ -9,8 +9,8 @@ import { execSync } from 'child_process'
 const DIR = getPackageDir('icons-webfont')
 
 const strokes = {
-  200: 1,
-  300: 1.5,
+  // 200: 1,
+  // 300: 1.5,
   400: 2,
 }
 
