@@ -47,7 +47,7 @@ export async function loadSvgFiles(path) {
  */
 export async function buildSvgFont(svgStreams) {
   const fontStream = new SVGIcons2SVGFontStream({
-    fontName: 'tabler-icons',
+    fontName: 'noctalia-tabler-icons',
     normalize: true,
     fontHeight: 1000,
     descent: 100,
